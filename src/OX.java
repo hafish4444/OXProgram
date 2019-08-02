@@ -5,8 +5,8 @@ public class OX {
 	static String  board[][] = {{" "," "," "},
 								{" "," "," "},
 								{" "," "," "}};
-	// First turn is X //
-	static String turn = "X";
+	// First turn is O //
+	static String turn = "O";
 	
 	public static void main(String[] args) {
 		printStart();
